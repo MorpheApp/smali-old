@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> This repository is archived and has moved to https://github.com/MorpheApp/smali, which is a fork of https://github.com/google/smali.
+> All commits from this repository are available there with the same commit hashes.
+
 ### About
 
 smali/baksmali is an assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation. The syntax is loosely based on Jasmin's/dedexer's syntax, and supports the full functionality of the dex format (annotations, debug info, line info, etc.)
